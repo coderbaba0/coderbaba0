@@ -16,9 +16,10 @@
 - 💬 Ask me about **Hybrid Application Development**
 - 💞️ I’m looking to collaborate on Dart, flutter,firebase, google cloud, appwrite 
 - 📫 How to reach me **flutterfever@gmail.com**
+- 💞️ Love to share knowledge and contribute to free software community.
 - For More: **https://flutterfever.com**
   
-- ## 🛠 Skills
+ ## 🛠 Skills
 
 - **Languages**: Dart, PHP,Java Sript
 - **Front-End**: Flutter, Flutterflow, HTML, CSS
