@@ -1,8 +1,48 @@
-- 👋 Hi, I’m @coderbaba0
-- 🌱 I’m currently learning System design and DSA. 
-- 💞️ I’m looking to collaborate on dart, flutter,firebase, google cloud, appwrite, AI, System design
-- 📫 How to reach me ...sattababakingup@gmail.com
-- For More: https://flutterfever.com
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="left">
+    Hi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+    I'm Coderbaba
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
+<h3 align="left">A passionate Flutter developer from India who always strives to work on end to end products. </h3>
+<!----------------------------------- Profile View Section ------------------------------------>
+<p align="left"> <a href="https://twitter.com/#" target="blank"><img src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" /></a> </p>
+
+- 👋 Hi, I’m ,serving as a **Flutter developer responsible for Android and IOS Development** 
+- 🌱 I’m currently **learning System design and DSA**.
+- 💬 Ask me about **Hybrid Application Development**
+- 💞️ I’m looking to collaborate on Dart, flutter,firebase, google cloud, appwrite, DSA, System design, app write
+- 📫 How to reach me **flutterfever@gmail.com**
+- For More: **https://flutterfever.com**
+  
+- ## 🛠 Skills
+
+- **Languages**: Dart, PHP,Java Sript
+- **Front-End**: Flutter, Flutterflow, HTMl CSS
+- **Back-End**: API, Firebase, Sqflite, PostgreSQL,Mysql, Appwrite,Hive
+- **Architectural patterns**: MVVM, MVC
+- **Others**:  Figma ,Canva, Inkscape
+
+## 📈 Projects
+
+- **[Indiassetz App](https://apps.apple.com/in/app/indiassetz/id1632174365)**: Build Indiassetz App using React Native from scratch for Android and iOS for Real Estate Wealth Management 
+- **[Git Command Explorer](https://github.com/dasjideepak/git-command-explorer)**: Git Command Explorer is a Google Chrome Extension using this extension user can learn or revise git commands and this extension is designed using HTML CSS and Vanilla JavaScript
+
+## 📄 Experience
+
+- **Senior Software Engineer and Frontend Lead**: Indiassetz, Bengaluru (Sep 2022 - Present)
+- **Software Engineer (Freelancer)**: Arvolution, Mexico City (Jan 2022 - Jul 2022)
+- **Full Stack Developer**: Builderfly, Ahmedabad (Dec 2021 - Jun 2022)
+- **Software Engineer**: Credilio, Mumbai (Nov 2020 - Nov 2021)
+- **Software Developer (Freelancer)**: Vcynta, Texas (Jun 2020 - Aug 2020)
+
+## 🎓 Education
+
+- **Fellow Engineer**: Pesto Tech - Delhi (Jan 2022 - Apr 2022)
+- **Fellow Full Stack Developer**: AltCampus - Dharamshala (Jan 2020 - Oct 2020)
+- **Diploma in Information Technology**: Government Polytechnic Ghaziabad (Jul 2016 - Jun 2019)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
