@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/#" target="blank"><img src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" /></a> </p>
 
 - 👋 Hi, I’m ,serving as a **Flutter developer responsible for Android and IOS Development** 
-- 🌱 I’m currently **learning System design and DSA**.
+- 🌱 I’m currently learning **System design and DSA**.
 - 💬 Ask me about **Hybrid Application Development**
 - 💞️ I’m looking to collaborate on Dart, flutter,firebase, google cloud, appwrite, DSA, System design, app write
 - 📫 How to reach me **flutterfever@gmail.com**
@@ -22,26 +22,26 @@
 - **Front-End**: Flutter, Flutterflow, HTMl CSS
 - **Back-End**: API, Firebase, Sqflite, PostgreSQL,Mysql, Appwrite,Hive
 - **Architectural patterns**: MVVM, MVC
-- **Others**:  Figma ,Canva, Inkscape
+- **Others** :  Figma ,Canva, Inkscape
 
 ## 📈 Projects
 
-- **[Indiassetz App](https://apps.apple.com/in/app/indiassetz/id1632174365)**: Build Indiassetz App using React Native from scratch for Android and iOS for Real Estate Wealth Management 
-- **[Git Command Explorer](https://github.com/dasjideepak/git-command-explorer)**: Git Command Explorer is a Google Chrome Extension using this extension user can learn or revise git commands and this extension is designed using HTML CSS and Vanilla JavaScript
+- **[VTUBE App](#)**: VTUBE App using Flutter , Firebase, Youtube Data API from scratch for Android. This plateform provides a channel specfic videos using there channel id and also supports custom short videos features with caching mechanism.
+- **[Service Booking App](#)**: This is Service booking app with Chat Features using Service booking API, Firebase, and shared prefrences for crictical data storing with real time notifications.
+- **[Sports betting App](#)**: This is many to one chat app without user numer limition Accessibility  (like whatsapp single side group chat but it has limited user), with realtime notifications and implementation of Cricket Api and admin can create Poll also.
+- **[News App](#)**: This is News App using Wordpress Rest Api with weather features and search and filter category based on API data. Voice read features also integrated on single tap this app is fully customized just change domain and acess post in app.
 
-## 📄 Experience
+## 📄 Working Experience
 
-- **Senior Software Engineer and Frontend Lead**: Indiassetz, Bengaluru (Sep 2022 - Present)
-- **Software Engineer (Freelancer)**: Arvolution, Mexico City (Jan 2022 - Jul 2022)
-- **Full Stack Developer**: Builderfly, Ahmedabad (Dec 2021 - Jun 2022)
-- **Software Engineer**: Credilio, Mumbai (Nov 2020 - Nov 2021)
-- **Software Developer (Freelancer)**: Vcynta, Texas (Jun 2020 - Aug 2020)
+- **Hybrid application Developer**:  (Aug 2022 - Present)
+- **Web Developer**:  (March 2021 - Jul 2022)
+- **Web Developer (Freelancer)**:  (Jul 2020 - Feb 2021)
+- **Web Designer**:   (Jan 2019 - Jul 2020)
 
 ## 🎓 Education
 
-- **Fellow Engineer**: Pesto Tech - Delhi (Jan 2022 - Apr 2022)
-- **Fellow Full Stack Developer**: AltCampus - Dharamshala (Jan 2020 - Oct 2020)
-- **Diploma in Information Technology**: Government Polytechnic Ghaziabad (Jul 2016 - Jun 2019)
+- **CITS**: Computer Software Application From NSTI kanpur
+- **Diploma in Information Technology**: Government Polytechnic Ghaziabad
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
