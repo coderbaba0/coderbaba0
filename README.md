@@ -36,8 +36,8 @@
 
 ## 📄 Working Experience
 
-- **Hybrid application Developer**:  (Aug 2022 - Present)
-- **Web Developer**:  (March 2021 - Jul 2022)
+- **Hybrid application Developer**:  (March 2022 - Present)
+- **Web Developer**:  (March 2021 - Feb 2022)
 - **Web Developer (Freelancer)**:  (Jul 2020 - Feb 2021)
 - **Web Designer**:   (Jan 2019 - Jul 2020)
 
