@@ -9,17 +9,17 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="left"> <a href="https://twitter.com/#" target="blank"><img src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" /></a> </p>
 
-- 👋 Hi, I’m ,serving as a **Flutter developer responsible for Android and IOS Development** 
+- 👋 Hi, I’m ,serving as a **Flutter developer responsible for Android and IOS app Development** 
 - 🌱 I’m currently learning **System design and DSA**.
 - 💬 Ask me about **Hybrid Application Development**
-- 💞️ I’m looking to collaborate on Dart, flutter,firebase, google cloud, appwrite, DSA, System design, app write
+- 💞️ I’m looking to collaborate on Dart, flutter,firebase, google cloud, appwrite 
 - 📫 How to reach me **flutterfever@gmail.com**
 - For More: **https://flutterfever.com**
   
 - ## 🛠 Skills
 
 - **Languages**: Dart, PHP,Java Sript
-- **Front-End**: Flutter, Flutterflow, HTMl CSS
+- **Front-End**: Flutter, Flutterflow, HTML, CSS
 - **Back-End**: API, Firebase, Sqflite, PostgreSQL,Mysql, Appwrite,Hive
 - **Architectural patterns**: MVVM, MVC
 - **Others** :  Figma ,Canva, Inkscape
