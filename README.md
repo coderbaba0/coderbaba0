@@ -23,7 +23,7 @@
 
 - **Languages**: Dart, PHP,Java Sript,C
 - **Front-End**: Flutter, Flutterflow, HTML, CSS
-- **Back-End**: API, Sqflite,PostgreSQL, Mysql,(Firebase & Appwrite as BaaS),Hive
+- **Back-End**: API, Sqflite,PostgreSQL, Mysql,(Firebase & Appwrite as BaaS)
 - **Architectural patterns**: MVVM & Clean Architecture
 - **Others** :  Wordpress,Figma, Canva, Inkscape
 - **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP
