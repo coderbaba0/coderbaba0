@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
     I'm Kamal Yadav
 <!--     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"> -->
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="silentcoder" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+  
 </h1>
 <h3 align="left">A passionate Flutter developer from India who always strives to work on end to end products. </h3>
 <!----------------------------------- Profile View Section ------------------------------------>
@@ -20,6 +20,7 @@
 - 💞️ Love to share knowledge and contribute to Open Source community.
 - For More: **https://flutterfever.com**
   
+    <a href="https://www.buymeacoffee.com/silentcoder"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=silentcoder&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
  ## 🛠 Skills
 
 - **Languages**: Dart, PHP,Java Sript,C
