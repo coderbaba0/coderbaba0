@@ -6,7 +6,7 @@
 <!--     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"> -->
   
 </h1>
-<h3 align="left">A passionate Flutter developer from India who always strives to work on end to end products. </h3>
+<h3 align="left">A passionate Flutter developer, who always strives to work on end to end products. </h3>
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="left"> <a href="https://twitter.com/sattababa29580" target="blank"><img src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" /></a> <a title="theflutterfever@gmail.com" href="mailto:theflutterfever@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="theflutterfever@gmail.com" />
