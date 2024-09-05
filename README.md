@@ -13,7 +13,7 @@
     </a></p>
 
 - 👋 Hi, I’m, a **Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for Android and IOS app Development** 
-- 🌱 I’m improving **System design and DSA**.
+- 🌱 I’m improving **System Architectural design and DSA**.
 - 💬 Ask me about **Hybrid Application Development**
 - 💞️ I’m looking to collaborate on Dart, flutter,firebase, appwrite 
 - 📫 How to reach me **theflutterfever@gmail.com**
@@ -26,7 +26,7 @@
 - **Languages**: Dart, PHP,Java Script, C
 - **Front-End**: Flutter, Flutterflow, HTML, CSS,Bootstrap
 - **Back-End**: API, Sqflite, PostgreSQL, Mysql,(Firebase & Appwrite as BaaS)
-- **Architectural patterns**: MVVM & Clean Architecture
+- **Architectural patterns**: MVVM, MVC & Clean Architecture
 - **Others** :  Wordpress,Figma, Canva, Inkscape
 - **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP
 
