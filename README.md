@@ -15,9 +15,11 @@
 - 👋 Hi, I’m, a **Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  responsible for Android and IOS app Development** 
 - 🌱 I’m improving **System Architectural design and DSA**.
 - 💬 Ask me about **Hybrid Application Development**
-- 💞️ I’m looking to collaborate on Dart, flutter,firebase, appwrite 
+- 💞️ I’m looking to collaborate on Dart, flutter,firebase, appwrite
+- 💻 Holding conversations with software via code
 - 📫 How to reach me **theflutterfever@gmail.com**
 - 💞️ Love to share knowledge and contribute to Open Source community.
+- 💻 Holding conversations with software via code
 - For More: **https://flutterfever.com**
 
     
