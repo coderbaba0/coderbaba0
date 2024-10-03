@@ -19,7 +19,6 @@
 - 💻 Holding conversations with software via code
 - 📫 How to reach me **theflutterfever@gmail.com**
 - 💞️ Love to share knowledge and contribute to Open Source community.
-- 💻 Holding conversations with software via code
 - For More: **https://flutterfever.com**
 
     
