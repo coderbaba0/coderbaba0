@@ -57,9 +57,9 @@
 </p> -->
 
 <div align="start">
-  <img align="center"  width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderbaba0&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderbaba0&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderbaba0&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center"  width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderbaba0&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderbaba0&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderbaba0&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 
 ## 📱 Connect with me :
