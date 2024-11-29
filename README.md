@@ -64,12 +64,12 @@
 
 ## 📱 Connect with me :
  <a href="https://www.flutterfever.com/">
-    <img width="25%" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
+    <img  src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="#"/>
   </a>
     <a title="flutterfever@gmail.com" href="mailto:flutterfever@gmail.com">
-        <img width="25%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="flutterfever@gmail.com" />
+        <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="flutterfever@gmail.com" />
     </a>
-     <a href="https://twitter.com/sattababa29580" target="blank"><img width="25%" src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" />
+     <a href="https://twitter.com/sattababa29580" target="blank"><img  src="https://img.shields.io/twitter/follow/coderbaba0?logo=twitter&style=for-the-badge" alt="coderbaba0" />
 </p>
          
 ## 🛠️ Languages and Tools :
