@@ -24,12 +24,13 @@
     
  ## 🛠 Skills
 
-- **Languages**: Dart, PHP,Java Script, C
-- **Front-End**: Flutter, Flutterflow, HTML, CSS,Bootstrap
+- **Languages**: Dart, PHP, Java Script, C, Python
+- **Front-End**:  Flutterflow, HTML, CSS, Bootstrap
 - **Back-End**: API, Sqflite, PostgreSQL, Mysql,(Firebase & Appwrite as BaaS)
+- **D&D Farmework**: Flutter with SM , Django(ORM & Asynchronous with PostgreSQL).
 - **Architectural patterns**: MVVM, MVC & Clean Architecture
 - **Others** :  Wordpress,Figma, Canva, Inkscape
-- **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP
+- **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP, API DASH
 
 
 ## 📄 Working Experience
