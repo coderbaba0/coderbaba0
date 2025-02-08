@@ -26,9 +26,10 @@
 
 - **Languages**: Dart, PHP, Java Script, C, Python
 - **Front-End**:  Flutterflow, HTML, CSS, Bootstrap
-- **Back-End**: API, Sqflite, PostgreSQL, Mysql,(Firebase & Appwrite as BaaS), Redis (In Memory Database)
-- **D&D Farmework**: Flutter with SM , Django(ORM & Asynchronous with PostgreSQL).
+- **Back-End**: API, Vector Database (Weaviate, Chroma DB), Sqflite, PostgreSQL, Mysql,(Firebase & Appwrite as BaaS), Redis (In Memory Database)
+- **D&D Farmework**: Flutter with SM , Django(ORM & Asynchronous with PostgreSQL,Flask).
 - **Architectural patterns**: MVVM, MVC & Clean Architecture
+- **AI/ML**:   Retrieval-Augumented Generation (RAG) | Large Language Models (LLMs)
 - **Others** :  Wordpress,Figma, Canva, Inkscape
 - **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP, API DASH
 
