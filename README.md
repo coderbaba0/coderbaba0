@@ -29,7 +29,7 @@
 - **Back-End**: API, Vector Database (Weaviate, Chroma DB), Sqflite, PostgreSQL, Mysql,(Firebase & Appwrite as BaaS), Redis (In Memory Database)
 - **D&D Farmework**: Flutter with SM , Django(ORM & Asynchronous with PostgreSQL,Flask).
 - **Architectural patterns**: MVVM, MVC & Clean Architecture
-- **AI/ML**:   Retrieval-Augumented Generation (RAG) | Large Language Models (LLMs)
+- **AI/ML**:   Retrieval-Augumented Generation (RAG) | Large Language Models (LLMs) | TensorFlow, Pytorch
 - **Others** :  Wordpress,Figma, Canva, Inkscape
 - **Tools** :  VS Code, Android Studio,GIT,POSTMAN, XAMPP, API DASH
 
